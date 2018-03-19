@@ -40,6 +40,7 @@ for (String a : al11){
 		
 		System.out.println (a);
 		System.out.println("Commit");
+		//dcnijdbcui
 	}
 
 	}
