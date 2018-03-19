@@ -43,7 +43,6 @@ for (String a : al11){
 	 //lo
 	 //lop1
 		//lokpi
-		//vjsdigvsduiv
 	}
 
 	}
