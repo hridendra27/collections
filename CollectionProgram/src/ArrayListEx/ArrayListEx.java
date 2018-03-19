@@ -36,9 +36,9 @@ for (String a : al11){
 	System.out.println (a);
 }
  al.addAll(2,al11);
- for (String a : al){
+ for (String all : al){
 		
-		System.out.println (a);
+		System.out.println (all);
 		System.out.println("Commit");
 	 //lop1
 	}
