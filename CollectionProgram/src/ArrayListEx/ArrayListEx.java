@@ -44,6 +44,7 @@ for (String a : al11){
 	 //lop1
 		//lokpi
 	 // master
+		// Master Commit
 	}
 
 	}
