@@ -39,6 +39,7 @@ for (String a : al11){
  for (String a : al){
 		
 		System.out.println (a);
+		System.out.println("Commit");
 	}
 
 	}
