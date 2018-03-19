@@ -40,7 +40,12 @@ for (String a : al11){
 		System.out.println("welcome");
 		System.out.println (all);
 		System.out.println("Commit");
+<<<<<<< HEAD
 	 //lo
+=======
+	 //lop1
+		//lokpi
+>>>>>>> stash
 	}
 
 	}
