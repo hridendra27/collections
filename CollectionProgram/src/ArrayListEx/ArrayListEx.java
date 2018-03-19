@@ -37,10 +37,11 @@ for (String a : al11){
 }
  al.addAll(2,al11);
  for (String all : al){
-		
+		System.out.println("welcome");
 		System.out.println (all);
 		System.out.println("Commit");
 	 //lop1
+		
 	}
 
 	}
